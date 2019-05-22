@@ -1,0 +1,1 @@
+A simple serialport tcp server based on Qt5
